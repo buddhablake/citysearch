@@ -1,4 +1,6 @@
-# citysearch
+<img src="https://i.imgur.com/3HgpryB.png" title="source: imgur.com" width="100px"/>
+
+# CitySearch
 
 ## Cloning and Running the Application in local
 
@@ -17,3 +19,5 @@ npm start
 ```
 
 #### Built using React and TailwindCSS
+
+
