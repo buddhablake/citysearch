@@ -16,4 +16,4 @@ In order to run the application Type the following command
 npm start
 ```
 
-### Built using React and TailwindCSS
+#### Built using React and TailwindCSS
