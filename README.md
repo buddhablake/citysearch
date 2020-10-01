@@ -15,3 +15,5 @@ In order to run the application Type the following command
 ```bash
 npm start
 ```
+
+### Built using React and TailwindCSS
